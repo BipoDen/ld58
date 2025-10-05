@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a327a1fd0fa774542ba125f46911159d, type: 3}
+  m_Name: NewAnitaMessage
+  m_EditorClassIdentifier: 
+  DialogName: 'A. Snow
+
+    Messages
+
+    With - Nick'
+  Messeges:
+  - Date: 
+    Text: Hi, Nick! Long time no talk - how have you been? Are you still working
+      at The Storm? - A. Snow
+    Type: 1
+  - Date: 
+    Text: "Nick - Hey, Anita! Life\u2019s getting better, things are looking up!
+      Glad to hear from you! Yeah, I\u2019m still there - actually, I\u2019ve been
+      promoted to editor-in-chief! How about you?"
+    Type: 0
+  - Date: 
+    Text: "I\u2019m doing great\u2026 well, almost! Congratulations on the promotion!
+      Nick, I\u2019m actually writing to you because of something serious - thanks
+      to a recent article from one of your journalists, I might get fired! - A. Snow"
+    Type: 1
+  - Date: 
+    Text: Nick - What? What are you talking about?!
+    Type: 0
+  - Date: 
+    Text: "The article about Stanley Nord. It\u2019s complete nonsense! I work at
+      his company and haven\u2019t seen anything like what\u2019s written there!
+      Nick, I really need to find your employee who writes under the pseudonym P.Duke
+      - A. Snow"
+    Type: 1
+  - Date: 
+    Text: "Nick - Hmm, that\u2019s terrible news, Anita\u2026 but it won\u2019t be
+      easy. The management keeps journalist identities strictly confidential. We
+      only contact him via email - here it is: pduke23011997@wmail.wo  But trust
+      me, you\u2019re not the only one who\u2019s tried to reach him about his slander.
+      He\u2019s quite the ghost when it comes to replying."
+    Type: 0

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a327a1fd0fa774542ba125f46911159d, type: 3}
+  m_Name: JolieMessage
+  m_EditorClassIdentifier: 
+  DialogName: 'J. Wiess
+
+    Messages
+
+    With - 8351'
+  Messeges:
+  - Date: 
+    Text: 8351 - Jolie, are you aware of the new release from "The Storm"?
+    Type: 0
+  - Date: 
+    Text: "Good afternoon, Mr. Nord! Honestly, I\u2019m shocked! I can\u2019t even
+      find the words to describe how despicable that lie is! - J.Weiss"
+    Type: 1
+  - Date: 
+    Text: "8351 - I didn\u2019t expect this myself. The news has spread all over
+      Chicago and even beyond. I must look like a monster in the eyes of my employees\u2026"
+    Type: 0
+  - Date: 
+    Text: "Mr. Nord, don\u2019t say such things about yourself! Think about it -
+      your employees have never complained to you! - J. Weiss"
+    Type: 1
+  - Date: 
+    Text: "8351 -I know, Jolie, but if such rumors have started, they can\u2019t
+      be completely unfounded\u2026 I feel that if I leave things as they are, the
+      company\u2019s reputation will suffer greatly."
+    Type: 0
+  - Date: 
+    Text: "Mr. Nord, please don\u2019t tell me you\u2019re planning to change the
+      entire staff? Do you think that would stop the rumors? - J. Weiss"
+    Type: 1
+  - Date: 
+    Text: "8351 - Of course not, Jolie, where did you get that idea? Besides, I value
+      you especially as an employee. Replacing the staff would only reinforce the
+      notion that I\u2019m some kind of tyrant\u2026 Perhaps I\u2019ll have to step
+      down to keep the company\u2019s name clean."
+    Type: 0
+  - Date: 
+    Text: What are you saying, Mr. Nord!? Who would take your place? - J. Weiss
+    Type: 1
+  - Date: 
+    Text: "8351 - I\u2019m still thinking, but Jolie, I trust you the most. You know
+      the company\u2019s affairs very well, and at 30 you already hold a high position
+      - perhaps you\u2019ll be the next director of Nord Box."
+    Type: 0
+  - Date: 
+    Text: "Mr. Nord, it\u2019s an honor to hear such words from you, but you\u2019re
+      still in charge - don\u2019t give up! In any case, if you entrust the company
+      to me, I won\u2019t let you down. - J. Weiss"
+    Type: 0

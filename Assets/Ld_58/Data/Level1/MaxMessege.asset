@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a327a1fd0fa774542ba125f46911159d, type: 3}
+  m_Name: MaxMessege
+  m_EditorClassIdentifier: 
+  DialogName: 'Max. 849
+
+    Messages
+
+    With - N'
+  Messeges:
+  - Date: 
+    Text: "Never thought one of our regulars would turn out to be a young woman -
+      can you imagine? Pretty cute too, and just <color=blue>two years younger than
+      me\u2026</color> - Max"
+    Type: 1
+  - Date: 
+    Text: N - Whoa, tell me more! Planning to make a move?
+    Type: 0
+  - Date: 
+    Text: "Of course! Gonna give it a shot. Her name\u2019s Elise. Her birthday\u2019s
+      next Tuesday - thinking of getting her some flowers. - Max"
+    Type: 1
+  - Date: 
+    Text: N - Good luck, bro!
+    Type: 0

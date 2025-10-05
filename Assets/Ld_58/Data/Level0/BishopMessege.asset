@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a327a1fd0fa774542ba125f46911159d, type: 3}
+  m_Name: BishopMessege
+  m_EditorClassIdentifier: 
+  DialogName: 'Steve B.
+
+    Messages
+
+    With - 2454'
+  Messeges:
+  - Date: 
+    Text: "2454 - Dr. Steve, sir, this is no longer an isolated complaint. Please,
+      take action and talk to your son. His behavior keeps everyone on edge\u2026"
+    Type: 0
+  - Date: 
+    Text: "Judy, if we don\u2019t make a big deal out of such trifles, no one will
+      care. Besides, we don\u2019t know the whole story - sometimes people really
+      do need a bit of a verbal kick. - Steve B."
+    Type: 1
+  - Date: 
+    Text: "2454 - I\u2019d understand, sir, if this were a one-time incident\u2026
+      but colleagues keep noticing Henry making harsh remarks toward patients - his
+      own and others\u2019. Please, talk to him before we get ourselves into trouble"
+    Type: 0
+  - Date: 
+    Text: "Don\u2019t worry, Judy, I\u2019ve got everything under control. This won\u2019t
+      go beyond the clinic. As for my son - I haven\u2019t gone easy on him all his
+      25 years, and I\u2019m not planning to start now. - Steve B."
+    Type: 1
